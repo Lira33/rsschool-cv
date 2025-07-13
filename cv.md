@@ -21,7 +21,7 @@ function multiply(a, b){
 }
 ```
 ## Experience
-Resume CV
+Resume CV (https://github.com/Lira33/rsschool-cv/blob/gh-pages/cv.md)
 ## Courses
 Adobe Photoshop courses
 

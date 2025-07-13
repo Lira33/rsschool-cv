@@ -13,6 +13,21 @@ I live in Minsk. I'm currently applying to a university to become a software eng
 3. Adobe Photoshop (beginner)
 4. C/C++ (beginner)
 
+## Example code
+```
+function multiply(a, b){
+
+  return a * b
+}
+```
+## Experience
+Resume CV
+## Courses
+Adobe Photoshop courses
+
+## languages
+English language (with a dictionary)
+
 
 
 
